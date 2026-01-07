@@ -22,3 +22,8 @@ I am a BCA graduate with a strong interest in cybersecurity and ethical hacking.
 - Vulnerability assessment reports
 
 This portfolio reflects my learning process and practical understanding as an entry-level cybersecurity professional.
+
+
+## Portfolio Documents
+Detailed reports and documentation are available here:
+[Google Drive – Cybersecurity Portfolio](https://drive.google.com/drive/folders/1BYoTQ2jQdhNziqv5AxEghYnFHCERgB8N)
