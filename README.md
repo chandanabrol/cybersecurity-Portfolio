@@ -20,6 +20,8 @@ I am a BCA graduate with a strong interest in cybersecurity and ethical hacking.
 - SQL filtering exercises
 - Incident response documentation
 - Vulnerability assessment reports
+- Industry-recognized certificates in cybersecurity and networking (Google)
+
 
 This portfolio reflects my learning process and practical understanding as an entry-level cybersecurity professional.
 
