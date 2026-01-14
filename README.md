@@ -14,7 +14,7 @@ I am a BCA graduate with a strong interest in cybersecurity and ethical hacking.
 
 ## Portfolio Contents
 - Professional statement
-- Security audit reports
+- Security audit report based on a simulated retail organization scenario
 - Network security analysis
 - Linux file permission tasks
 - SQL filtering exercises
