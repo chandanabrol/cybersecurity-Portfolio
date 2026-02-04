@@ -11,8 +11,12 @@
 - **Play It Safe: Manage Threats and Risks** – Google  
   This course focused on understanding how organizations identify security risks and manage threats before incidents occur. I learned how to evaluate assets, recognize vulnerabilities, and assess risk using structured approaches. The course introduced security controls, control categories, and compliance concepts such as PCI DSS, GDPR, and SOC. Through a simulated security audit scenario, I practiced reviewing an organization’s security posture, identifying missing controls, and recommending practical improvements to reduce risk.
 
-  - **Connect and Protect: Networks and Network Security** – Google  
+- **Connect and Protect: Networks and Network Security** – Google  
   This course focused on how networks operate and how they can be protected from common security threats. I learned about network protocols, firewalls, intrusion detection and prevention systems (IDS/IPS), and secure network design. Through hands-on activities, I analyzed network traffic, identified network-based attacks such as denial-of-service incidents, and practiced applying network hardening techniques to improve security and reduce risk.
+
+- **Tools of the Trade: Linux and SQL** – Google  
+  This course focused on using Linux and SQL as core tools for cybersecurity analysis. I learned how to manage file and directory permissions using Linux commands such as `ls -la` and `chmod` to enforce proper authorization. I also used SQL queries with filters like AND, OR, NOT, and LIKE to investigate login activity and retrieve employee data for security-related tasks. These activities helped me understand how operating systems and databases are used in real-world security investigations.
+
 
 
 
