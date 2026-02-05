@@ -16,11 +16,10 @@ I am a BCA graduate with a strong interest in cybersecurity and ethical hacking.
 - Professional statement
 - Security audit report
 - Incident response report
-- Risk assessment
-- Network security analysis
+- Risk assessment reports
+- Asset management reports
 - Linux file permission tasks
 - SQL filtering exercises
-- Vulnerability assessment reports
 - Industry-recognized certificates in cybersecurity and networking (Google)
 
 
