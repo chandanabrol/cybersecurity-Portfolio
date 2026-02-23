@@ -17,7 +17,8 @@
 - **Tools of the Trade: Linux and SQL** – Google  
   This course focused on using Linux and SQL as core tools for cybersecurity analysis. I learned how to manage file and directory permissions using Linux commands such as `ls -la` and `chmod` to enforce proper authorization. I also used SQL queries with filters like AND, OR, NOT, and LIKE to investigate login activity and retrieve employee data for security-related tasks. These activities helped me understand how operating systems and databases are used in real-world security investigations.
 
-
+- **Threats, Risks, and Vulnerabilities** – Google
+  This course focused on identifying, analyzing, and managing cybersecurity risks within an organization. I learned how to conduct risk assessments using risk registers, evaluate vulnerabilities using frameworks like NIST SP 800-30, and apply access control principles such as least privilege. I performed threat modeling using the PASTA framework, analyzed USB baiting and data leak scenarios, and assessed security controls to mitigate potential attacks. These activities strengthened my ability to evaluate security posture, prioritize risks, and recommend practical security controls to reduce organizational exposure.
 
 
 **Certificate Files (PDFs):**  
