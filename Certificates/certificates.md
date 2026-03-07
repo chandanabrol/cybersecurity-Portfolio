@@ -20,6 +20,9 @@
 - **Threats, Risks, and Vulnerabilities** – Google
   This course focused on identifying, analyzing, and managing cybersecurity risks within an organization. I learned how to conduct risk assessments using risk registers, evaluate vulnerabilities using frameworks like NIST SP 800-30, and apply access control principles such as least privilege. I performed threat modeling using the PASTA framework, analyzed USB baiting and data leak scenarios, and assessed security controls to mitigate potential attacks. These activities strengthened my ability to evaluate security posture, prioritize risks, and recommend practical security controls to reduce organizational exposure.
 
+- **Sound the Alarm: Detection and Response** – Google
+  This course focused on detecting cybersecurity incidents and responding effectively using structured incident response processes. I learned how Security Operations Centers (SOCs) monitor alerts, investigate suspicious activity, and document incidents using structured methods such as the incident handler’s journal and the 5 W’s framework. I analyzed indicators of compromise using tools like VirusTotal and applied the Pyramid of Pain to understand threat intelligence. I also practiced investigating phishing incidents using incident response playbooks and explored network monitoring tools such as Wireshark and tcpdump. These activities strengthened my ability to detect security threats, investigate alerts, and follow incident response procedures used in real-world security operations.
+
 
 **Certificate Files (PDFs):**  
 [View certificates on Google Drive](https://drive.google.com/drive/folders/1lUGqb6X5I6qm4REa0kzL9qbJ0pp0nLZ5)
